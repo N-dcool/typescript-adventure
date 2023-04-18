@@ -12,7 +12,7 @@ This project was created to showcase my understanding of various technical terms
 
 To get started with this project, follow these steps:
 
-1. Clone the repository using `git clone https://github.com/n-dcool/learning-typescript.git`
+1. Clone the repository using `git clone https://github.com/n-dcool/typescript-adventure.git`
 2. `cd 03pureTS`
 3. Install the dependencies using `npm install`
 4. Run the project using `npm start`
